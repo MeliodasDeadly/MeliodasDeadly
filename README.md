@@ -1,3 +1,3 @@
 - <👋> Hi, I’m Meliodas! 
 - <⭐> French developer & Graphist 
-- <💥> VT-Dev: Developper
+- <💥> Java, HTML, CSS Developper
