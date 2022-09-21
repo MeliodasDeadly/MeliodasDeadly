@@ -1,3 +1,3 @@
 - <👋> Hi, I’m Meliodas! 
 - <⭐> French developer & Graphist 
-- <💥> Java, HTML, CSS Developper
+- <💥> Java, JavaScript, HTML, CSS, C#, React Developper
