@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d3adplays" alt="d3adplays" /></a> </p>
 
-- 🔭 I’m currently working on [A private discord bot](https://github.com/MeliodasDeadly/????)
+- 🔭 I’m currently working on [A private Minecraft Plugin](https://github.com/MeliodasDeadly/????)
 
 - 🌱 I’m currently learning **how html, css and js works 🤔**
 
