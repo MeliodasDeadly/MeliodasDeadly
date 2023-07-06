@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **how html, css and js works 🤔**
 
-- 📫 How to reach me : [**Join my discord !**](https://discord.gg/DzQnnDSh)
+- 📫 How to reach me : [**Join my discord !**](https://discord.gg/zrS6y5Zbtu)
 
 - ⚡ Fun fact **i love syntax errors.**
 
