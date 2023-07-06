@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **how html, css and js works 🤔**
 
-- 📫 How to reach me **L'unique Meliodas#0101**
+- 📫 How to reach me : [**Join my discord !**](https://discord.gg/DzQnnDSh)
 
 - ⚡ Fun fact **i love syntax errors.**
 
