@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [A curious Magnifique project](https://github.com/MeliodasDeadly/????)
 
-- 🌱 I’m currently learning **how html, css and js works 🤔**
+- 🌱 I’m currently learning **how kernel work🤔**
 
 - 📫 How to reach me : [**Join my discord !**](https://discord.gg/zrS6y5Zbtu) or directly add me here !
 - <a href=""><img src="https://discord.c99.nl/widget/theme-1/300589878972907520.png" alt="rien"/></a>
