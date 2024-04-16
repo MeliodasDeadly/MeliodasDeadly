@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **how kernel work🤔**
 
-- 📫 How to reach me : [**Join my discord !**](https://discord.gg/zrS6y5Zbtu) or directly add me here !
+- 📫 How to reach me : [**Join my discord !**]([https://discord.gg/zrS6y5Zbtu](https://discord.gg/moon-community-988837897564221440)) or directly add me here !
 - <a href=""><img src="https://discord.c99.nl/widget/theme-1/300589878972907520.png" alt="rien"/></a>
 
 - ⚡ Fun fact **i love syntax errors.**
